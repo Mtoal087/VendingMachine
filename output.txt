@@ -1,0 +1,108 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw3-in1.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Tax Mutilator! ***
+
+Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $83250
+Deduction: $7000
+Taxable income: $76250
+Tax: $12575
+Tax Due: $2575
+
+Process another tax for? (y/n) Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $89250
+Deduction: $28000
+Taxable income: $61250
+Tax: $6950
+Tax Due: $5650
+
+Process another tax for? (y/n) 
+Thank you for using the Jolly Tax Mutilator!
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw3-in2.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Tax Mutilator! ***
+
+Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $45751
+Deduction: $7000
+Taxable income: $38751
+Tax: $4450
+Tax Due: $-119006
+
+Process another tax for? (y/n) 
+Thank you for using the Jolly Tax Mutilator!
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw3-in3.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Tax Mutilator! ***
+
+Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $70000
+Deduction: $14000
+Taxable income: $56000
+Tax: $8120
+Tax Due: $4620
+
+Process another tax for? (y/n) 
+Thank you for using the Jolly Tax Mutilator!
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw3-in4.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Tax Mutilator! ***
+
+Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $93750
+Deduction: $28000
+Taxable income: $65750
+Tax: $7490
+Tax Due: $6290
+
+Process another tax for? (y/n) 
+Thank you for using the Jolly Tax Mutilator!
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw3-in5.txt == @@@@@@@@@@@@@@@
+
+
+*** Jolly Tax Mutilator! ***
+
+Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $50800
+Deduction: $28000
+Taxable income: $22800
+Tax: $2336
+Tax Due: $2336
+
+Process another tax for? (y/n) Welcome!
+Please enter the following information:
+Wages? Interest? Number of ostriches? Status? ( 0=dependent, 1=single, 2=married ) Amount Withheld? 
+AGI: $19950
+Deduction: $5000
+Taxable income: $14950
+Tax: $1594
+Tax Due: $1594
+
+Process another tax for? (y/n) 
+Thank you for using the Jolly Tax Mutilator!
